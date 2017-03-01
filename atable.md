@@ -1,9 +1,8 @@
-====================================================================================================
-                              ERROR COUNT COMPARISION REPORT
-[errors_itms5_20170227_2.sort vs errors_itms5_20170228_3.sort]
+ERROR COUNT COMPARISION REPORT
+===
+file1 vs file2
 
-| ----------------------------------------------------------------------------------------------------------------------------------
-| Name                                                                                      | Pre   | Post  | Diff  | Per  |
+| Name | Pre | Post | Diff | Per |
 | :------ | :---: |  :---: |  :---: |  :---: |
 | com.apple.cloud.umc.daemons.business.ingest.AppleTrailersIngest                           |     0 |     1 |     0 |     0 |
 | com.apple.cloud.umc.dal.solr.CanonicalMediaSolrIndexer                                    |     0 |     1 |     0 |     0 |
