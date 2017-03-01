@@ -1,6 +1,7 @@
 ERROR COUNT COMPARISION REPORT
 ===
 file1 vs file2
+===
 
 | Name | Pre | Post | Diff | Per |
 | :------ | :---: |  :---: |  :---: |  :---: |
